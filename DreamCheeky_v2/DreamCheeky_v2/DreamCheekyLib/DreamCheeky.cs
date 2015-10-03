@@ -1,29 +1,40 @@
 ﻿using DreamCheeky;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DreamCheekyLib
 {
+    /// <summary>
+    /// DreamCheeky class - to interface with the DreamCheeky DLL
+    /// </summary>
     public class DreamCheeky : IDisposable
     {
-        private BigRedButton bigRedButton;
+        /// <summary>
+        /// Local var for the big red button instance
+        /// </summary>
+        private BigRedButton _bigRedButton;
 
+        /// <summary>
+        /// Create a new instance of the DreamCheeky class
+        /// </summary>
+        /// <param name="lidClosed">The event handler to call if the lid is closed</param>
+        /// <param name="lidOpen">The event handler to call if the lid is opened</param>
+        /// <param name="buttonPressed">The event handler to call if the button is pressed</param>
         public DreamCheeky(EventHandler lidClosed, EventHandler lidOpen, EventHandler buttonPressed)
         {
-            bigRedButton = new BigRedButton();
-            bigRedButton.LidClosed += lidClosed;
-            bigRedButton.LidOpen += lidOpen;
-            bigRedButton.ButtonPressed += buttonPressed;
-            bigRedButton.Start();
+            _bigRedButton = new BigRedButton();
+            _bigRedButton.LidClosed += lidClosed;
+            _bigRedButton.LidOpen += lidOpen;
+            _bigRedButton.ButtonPressed += buttonPressed;
+            _bigRedButton.Start();
         }
 
+        /// <summary>
+        /// Stop and remove the bigRedButton instance
+        /// </summary>
         public void Dispose()
         {
-            bigRedButton.Stop();
-            bigRedButton = null;
+            _bigRedButton.Stop();
+            _bigRedButton = null;
         }
     }
 }
