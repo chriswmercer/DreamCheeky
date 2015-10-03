@@ -15,24 +15,23 @@ namespace DreamCheeky_v2
     {
         private void LidClosed(object sender, EventArgs e)
         {
-            Console.WriteLine("CLOSED");
+            Console.WriteLine("Closed action thrown");
         }
 
         private void LidOpen(object sender, EventArgs e)
         {
-            Console.WriteLine("OPEN");
+            Console.WriteLine("Open Action Thrown");
         }
 
         private void ButtonPressed(object sender, EventArgs e)
         {
-            Console.WriteLine("PRESSED");
+            Console.WriteLine("Pressed action thrown");
         }
 
         public frmMain()
         {
             InitializeComponent();
             DreamCheeky brb = new DreamCheeky(new EventHandler(this.LidClosed), new EventHandler(this.LidOpen), new EventHandler(this.ButtonPressed));
-            }
         }
     }
 }

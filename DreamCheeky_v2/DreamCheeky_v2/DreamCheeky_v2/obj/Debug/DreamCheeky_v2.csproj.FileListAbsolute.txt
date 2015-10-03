@@ -11,3 +11,16 @@ C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\Dre
 C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\obj\Debug\DreamCheeky_v2.exe
 C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\obj\Debug\DreamCheeky_v2.pdb
 C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\bin\Debug\HidLibrary.dll
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\bin\Debug\DreamCheeky_v2.exe.config
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\obj\Debug\DreamCheeky_v2.exe
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\obj\Debug\DreamCheeky_v2.pdb
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\obj\Debug\DreamCheeky_v2.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\obj\Debug\DreamCheeky_v2.frmMain.resources
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\obj\Debug\DreamCheeky_v2.Properties.Resources.resources
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\obj\Debug\DreamCheeky_v2.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\bin\Debug\DreamCheeky_v2.exe
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\bin\Debug\DreamCheeky_v2.pdb
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\bin\Debug\DreamCheekyLib.dll
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\bin\Debug\DreamCheeky.BigRedButton.dll
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\bin\Debug\HidLibrary.dll
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheeky_v2\bin\Debug\DreamCheekyLib.pdb
