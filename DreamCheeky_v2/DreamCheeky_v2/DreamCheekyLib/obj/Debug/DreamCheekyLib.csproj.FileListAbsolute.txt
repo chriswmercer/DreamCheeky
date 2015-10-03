@@ -1,0 +1,7 @@
+C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\bin\Debug\DreamCheekyLib.dll
+C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\bin\Debug\DreamCheekyLib.pdb
+C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\bin\Debug\DreamCheeky.BigRedButton.dll
+C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\obj\Debug\DreamCheekyLib.csprojResolveAssemblyReference.cache
+C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\obj\Debug\DreamCheekyLib.dll
+C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\obj\Debug\DreamCheekyLib.pdb
+C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\bin\Debug\HidLibrary.dll
