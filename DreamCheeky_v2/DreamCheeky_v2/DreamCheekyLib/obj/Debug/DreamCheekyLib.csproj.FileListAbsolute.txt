@@ -5,3 +5,9 @@ C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\Dre
 C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\obj\Debug\DreamCheekyLib.dll
 C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\obj\Debug\DreamCheekyLib.pdb
 C:\Users\chrism\Dropbox\Work\Personal Projects\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\bin\Debug\HidLibrary.dll
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\bin\Debug\DreamCheekyLib.dll
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\bin\Debug\DreamCheekyLib.pdb
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\bin\Debug\DreamCheeky.BigRedButton.dll
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\bin\Debug\HidLibrary.dll
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\obj\Debug\DreamCheekyLib.dll
+C:\Users\Chris\Documents\GitHub\DreamCheeky\DreamCheeky_v2\DreamCheeky_v2\DreamCheekyLib\obj\Debug\DreamCheekyLib.pdb
