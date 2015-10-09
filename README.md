@@ -1,4 +1,4 @@
 # DreamCheeky
 Basic C# code for using the DreamCheeky Big Red Button
 
-Uses deegates.
+Uses delegates.
